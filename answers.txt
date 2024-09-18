@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows you to use proper and easy version control which allows for easy collaboration and looking back at previous work in case you need to revert back.
