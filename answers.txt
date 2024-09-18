@@ -6,3 +6,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied in many fields where one of them can be Cybersecurity. For example, data science can be used in analyzing security logs data such as Splunk where we can look for and identify anomolies in patterns and trends. This can help create data driven insights for decisions making.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between the two is that merging combines the histories of two branches while keeping their own commit histories, while rebasing is moves commits commits from one branch on top of another which creates a linear history without a merge commit.
