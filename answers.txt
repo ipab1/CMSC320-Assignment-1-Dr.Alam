@@ -10,3 +10,7 @@ Answer: Data science can be applied in many fields where one of them can be Cybe
 Q3: What is the difference between merging and rebasing?
 
 Answer: The difference between the two is that merging combines the histories of two branches while keeping their own commit histories, while rebasing is moves commits commits from one branch on top of another which creates a linear history without a merge commit.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Some skills that I hope to improve during this course are my pandas skills in cleaning and manipulating data and also creating data visualizations. I also hope to learn how to create ML models and how we can make more advanced models as well.
